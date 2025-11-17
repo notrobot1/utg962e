@@ -1,4 +1,4 @@
-module github.com/notrobot1/utg
+module github.com/notrobot1/utg/utg962e
 
 go 1.23.0
 
